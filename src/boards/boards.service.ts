@@ -21,6 +21,5 @@ export class BoardsService {
 
         this.boards.push(board);
         return board;
-
     }
 }
