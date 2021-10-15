@@ -1,0 +1,9 @@
+db:
+  host: 'localhost'
+  username: 'root'
+  password: '1'
+  synchronize: true
+
+jwt:
+  secret: 'secret123'
+  
